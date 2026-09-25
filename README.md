@@ -1,4 +1,4 @@
-# Advanced Data Table Component
+jhb# Advanced Data Table Component
 
 > [!IMPORTANT]
 > **Recommendation:** Check out **[TableCraft](https://github.com/jacksonkasi1/TableCraft)**! It is the spiritual successor to this repository, offering almost all the same functionality but with a vastly simplified, adapter-driven architecture that is easier to use and maintain.
